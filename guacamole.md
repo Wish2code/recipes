@@ -4,4 +4,4 @@
 *salt-$1.00
 *lime-$2.50
 ## Instructions
-*This is a different instruction
+*put one avocado into a bowl.
